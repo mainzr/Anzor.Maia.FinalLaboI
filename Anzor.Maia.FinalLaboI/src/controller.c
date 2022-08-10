@@ -222,7 +222,7 @@ int controller_modificar(LinkedList* list)
 		system("cls");
 
 		printf("--------------------------------------------------------------\n");
-		printf("                        MODIFICAR POKEMONS                    \n");
+		printf("                        MODIFICAR POKEMON                   \n");
 		printf("--------------------------------------------------------------\n");
 
 		controller_List(list);

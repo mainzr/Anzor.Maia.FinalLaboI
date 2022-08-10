@@ -41,7 +41,7 @@ int main(void)
 			case 3:
 				if(controller_List(list) == 0)
 				{
-					printf("Lista impresa");
+					printf("La lista de imprimio..\n");
 				}
 				break;
 			case 4:
